@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/bin/Debug/net6.0/CodeFinal
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/bin/Debug/net6.0/CodeFinal.deps.json
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/bin/Debug/net6.0/CodeFinal.runtimeconfig.json
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/bin/Debug/net6.0/CodeFinal.dll
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/bin/Debug/net6.0/CodeFinal.pdb
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.dll
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/refint/CodeFinal.dll
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.pdb
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/CodeFinal.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/С#/FinalHomeWork/CodeFinal/obj/Debug/net6.0/ref/CodeFinal.dll
